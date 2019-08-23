@@ -1,0 +1,2 @@
+include ':app', ':analytics'
+rootProject.name='DSPBranchSDK'
